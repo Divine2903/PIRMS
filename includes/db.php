@@ -1,7 +1,7 @@
 <?php
 
 $DB_HOST = 'localhost';
-$DB_NAME = 'pirms';   // your database name
+$DB_NAME = 'pirms';   // database name
 $DB_USER = 'root';    // XAMPP default
 $DB_PASS = '';        // XAMPP default (empty password)
 
